@@ -9,8 +9,6 @@ This is Ghadeer Khasawneh. I am an aeronautical engineer, I am passionate about 
 
 | Tasks     | URLs |
 | ----------- | ----------- |
-| Creating a main page about Mindset   | [reading-notes](https://ghadeerkh9.github.io/reading-notes/)     |
+| Creating a main page about Mindset   | [reading-notes](https://ghadeerkh9.github.io/reading-notes/Growth-Mindset)     |
 | A summary page about Markdown   | [Read01b](https://ghadeerkh9.github.io/reading-notes/read01b)       |
 | A summary page about Git   | [Read02b](https://ghadeerkh9.github.io/reading-notes/read02b)     |
-
-
