@@ -13,4 +13,3 @@
 * Strings
 * Numbers or numeric
 * Boolean
-
