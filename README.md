@@ -5,7 +5,7 @@ This is Ghadeer Khasawneh. I am an aeronautical engineer, I am passionate about 
 * Markdowns
 * Using Github and Replit
 
-## *Here's a table of the pages we created:*
+## *Code 102 Reading Notes. Here's a table of the pages we created:*
 
 | Tasks     | URLs |
 | ----------- | ----------- |
@@ -14,3 +14,22 @@ This is Ghadeer Khasawneh. I am an aeronautical engineer, I am passionate about 
 | A summary page about Markdown   | [Read01b](https://ghadeerkh9.github.io/reading-notes/read01b)       |
 | A summary page about Git   | [Read02b](https://ghadeerkh9.github.io/reading-notes/read02b)
 | A summary page about wireframing, HTML and symantics   | [Red-disc](https://ghadeerkh9.github.io/reading-notes/Ref-disc)      |
+
+## *Code 201 Reading Notes, Reading notes that will be created:*
+| Task     | URLs |
+| ----------- | ----------- |
+| Assignment    | URL     |
+| Assignment    | URL     |
+| Assignment    | URL     |
+| Assignment    | URL     |
+| Assignment    | URL     |
+| Assignment    | URL     |
+| Assignment    | URL     |
+| Assignment    | URL     |
+| Assignment    | URL     |
+| Assignment    | URL     |
+| Assignment    | URL     |
+| Assignment    | URL     |
+| Assignment    | URL     |
+| Assignment    | URL     |
+| Assignment    | URL     |
