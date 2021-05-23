@@ -1,7 +1,13 @@
-## How the Web Works
-### When you visit a website, the web server hosting that site could be anywhere in the world. In order for you to find the location of the web server, your browser will first connect to a Domain Name System (DNS) server.
+## HTML Describes the Structure of Pages
+*"The HTML code is made up of characters that live inside angled brackets — these are called HTML elements. Elements are usually made up of two tags: an opening tag and a closing tag. (The closing tag has an extra forward slash in it.) Each HTML element tells the browser something about the information that sits between its opening and closing tags"*
+
+## New Html5 Layout Elements
+*HTML5 introduces a new set of elements that allow you to divide up the parts of a page. The names of these elements indicate the kind of content you will find in them. They are still subject to change, but that has not stopped many web page authors using them already.*
 
 
-## Attributes Tell Us More About Elements
-*Attributes provide additional information about the contents of an element. They appear on the opening tag of the element and are made up of two parts: a name and a value, separated by an equals sign.*
+*"Web browsers use HTML markup to create a model of the web page. Each element creates its own node. (which is a kind of object)."*
+
+
+*"JavaScript is written in plain text, just like HTML and CSS, so you do not need any new tools to write a script."*
+
 
