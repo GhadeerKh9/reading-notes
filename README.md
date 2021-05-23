@@ -18,8 +18,8 @@ This is Ghadeer Khasawneh. I am an aeronautical engineer, I am passionate about 
 ## *Code 201 Reading Notes, Reading notes that will be created:*
 | Task     | URLs |
 | ----------- | ----------- |
-| Assignment    | URL     |
-| Assignment    | URL     |
+| Class01   | [HTML](https://ghadeerkh9.github.io/reading-notes/class-01)   |
+| Class02   | [Markups and CSS](https://ghadeerkh9.github.io/reading-notes/class02)  |
 | Assignment    | URL     |
 | Assignment    | URL     |
 | Assignment    | URL     |
