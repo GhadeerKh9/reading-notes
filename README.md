@@ -20,7 +20,7 @@ This is Ghadeer Khasawneh. I am an aeronautical engineer, I am passionate about 
 | ----------- | ----------- |
 | Class01   | [HTML](https://ghadeerkh9.github.io/reading-notes/class-01)   |
 | Class02   | [Markups and CSS](https://ghadeerkh9.github.io/reading-notes/class02)  |
-| Assignment    | URL     |
+| Class03    | [Read03](https://ghadeerkh9.github.io/reading-notes/class201/read03)     |
 | Assignment    | URL     |
 | Assignment    | URL     |
 | Assignment    | URL     |
